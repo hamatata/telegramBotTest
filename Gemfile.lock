@@ -14,13 +14,13 @@ GEM
       multipart-post (>= 1.2, < 3)
     ice_nine (0.11.2)
     inflecto (0.0.2)
-    json (2.0.4)
     mini_portile2 (2.3.0)
     multipart-post (2.0.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     nokogiri (1.8.2-x64-mingw32)
       mini_portile2 (~> 2.3.0)
+    rake (12.3.0)
     telegram-bot-ruby (0.8.6.1)
       faraday
       inflecto
@@ -37,8 +37,8 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  json
   nokogiri
+  rake
   telegram-bot-ruby
 
 BUNDLED WITH

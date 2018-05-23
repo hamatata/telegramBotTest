@@ -1,0 +1,9 @@
+Let me show you all commands I understand:
+/start - start from this command :)
+/collect - go and get all news!
+/kyiv_num - filter news for Kyiv city
+/kyiv_first - show first 3 news title
+/city - set city to collect news(in progress)
+/stop - stop me :(
+/help - show this help documentation.
+/dev

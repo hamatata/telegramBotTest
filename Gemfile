@@ -1,4 +1,5 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'telegram-bot-ruby'
 gem 'nokogiri'
+gem 'rake'
+gem 'telegram-bot-ruby'
