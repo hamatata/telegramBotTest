@@ -1,0 +1,5 @@
+require 'telegram/bot'
+require 'rubygems'
+require 'nokogiri'
+require 'open-uri'
+require './NewsCard'
