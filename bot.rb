@@ -14,6 +14,7 @@ all_news.each {|card| puts "Title: #{card.title}\nLink: #{card.link}\n"}
   # Show 1, 2, 3 etc. page
 # TODO for deploying (later)
 # use Heroku
+# TODO: add database for all news? :)
 
 exit
 Telegram::Bot::Client.run(config['bot_token']) do |bot|
